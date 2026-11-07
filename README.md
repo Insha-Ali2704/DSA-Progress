@@ -1,2 +1,2 @@
 # DSA-Progress
-My DSA journey in C++ — Striver A2Z Sheet, LeetCode problems, and topic-wise implementations.
+My DSA journey in C++ — documenting Striver's A2Z DSA Sheet, LeetCode problem-solving, and topic-wise implementations.
